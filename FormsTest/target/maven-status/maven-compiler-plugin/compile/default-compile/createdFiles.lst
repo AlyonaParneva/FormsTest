@@ -1,0 +1,6 @@
+FormTests\IndexPage.class
+FormTests\FormTest.class
+FormTests\MiddlePage.class
+FormTests\FormPage.class
+FormTests\BaseTest.class
+FormTests\EndTest.class
